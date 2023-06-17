@@ -1,0 +1,7 @@
+HIST1234;History;Ilber Ortayli;1
+PHYS1856;PHYS1856;General Physics;2
+CENG1234;Programming Fundamentals;Baris Ethem Suzek;5
+MATH1234;Matematik;Cahit Arf;0
+BIOL1234;Biology;Muzaffer Cetin;1
+GEOG1234;Geography;Ali Gun;0
+ARTI1234;Artificial Intelligence;Osman Ekici;3
